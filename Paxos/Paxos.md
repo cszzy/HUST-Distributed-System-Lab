@@ -1,0 +1,1 @@
+修改了Paxos.cpp, 可以调节num_proposer,num_acceptor和num_proposal_inc
